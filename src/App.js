@@ -13,19 +13,19 @@ const dummyExpenses = [
     id: "2",
     title: "Pajak Bumi dan Bangunan",
     amount: 2_500_00,
-    date: new Date(202, 1, 15),
+    date: new Date(2022, 2, 15),
   },
   {
     id: "3",
     title: "Pajak Kendaraan",
     amount: 15_000_000,
-    date: new Date(2023, 1, 20),
+    date: new Date(2023, 2, 20),
   },
   {
     id: "4",
     title: "Gaji",
     amount: 250_000_000,
-    date: new Date(2023, 1, 25),
+    date: new Date(2023, 3, 25),
   },
 ];
 
